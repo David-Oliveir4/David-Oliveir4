@@ -1,4 +1,4 @@
-# 👩🏻‍💻 David Oliveira
+#  David Oliveira
 
 **`Desenvolvedor Back End`**
 
